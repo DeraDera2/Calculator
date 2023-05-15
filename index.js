@@ -6,8 +6,8 @@ function appendValue(value){
     result.value = expression;
 }
 
-function appendOperator(opeartor){
-    expression += opeartor;
+function appendOperator(operator){
+    expression += operator;
     result.value = expression;
 }
 
